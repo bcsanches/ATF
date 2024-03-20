@@ -177,3 +177,6 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+/Framework/Atf.Core/.vs
+/Framework/Atf.Gui/.vs
+/Framework/Atf.Gui.WinForms/.vs
