@@ -177,5 +177,6 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
-/Framework/Atf.Core/.vs/Atf.Core.vs2010.csproj.dtbcache.json
-/Framework/Atf.Gui/.vs/Atf.Gui.vs2010.csproj.dtbcache.json
+/Framework/Atf.Core/.vs
+/Framework/Atf.Gui/.vs
+/Framework/Atf.Gui.WinForms/.vs
